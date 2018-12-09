@@ -1,0 +1,3 @@
+/zdata/zhangyajun/torch/hand_classifier/test/build/CMakeFiles/rebuild_cache.dir
+/zdata/zhangyajun/torch/hand_classifier/test/build/CMakeFiles/edit_cache.dir
+/zdata/zhangyajun/torch/hand_classifier/test/build/CMakeFiles/hand_classify.dir
